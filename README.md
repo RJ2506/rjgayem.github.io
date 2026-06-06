@@ -16,7 +16,7 @@ A comprehensive deployment of a virtualized domain environment (`homelab.local`)
 * **Group Policy Automation:** Designed and implemented global GPOs to map corporate drives (`H:`) automatically based on departmental Security Groups.
 * **Access Control & Hardening:** Enforced the Principle of Least Privilege by configuring organizational units (OUs), setting strict account lockout thresholds, and managing user lifecycle accounts.
 
-👉 **[View Full Documentation & Configuration Logs](./enterprise-lab-docs)**
+👉 **[View Full Documentation & Configuration Logs](./enterprise-lab-docs.md)**
 
 ---
 
