@@ -31,4 +31,4 @@ A comprehensive deployment of a virtualized domain environment (`homelab.local`)
 ## 📜 Credentials
 * **Computer Information Technology Diploma** – British Columbia Institute of Technology (BCIT)
 * **Google IT Support Professional Certificate** – Coursera / Google
-* **Valid BC Class 5 Driver’s License**
+
