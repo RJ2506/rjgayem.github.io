@@ -1,5 +1,5 @@
 # Rodolf John Gayem | IT Portfolio
-📍 Surrey, BC | ✉️ rjgayem@gmail.com | 💼 [LinkedIn](www.linkedin.com/in/rodolf-john-gayem-733616203)
+📍 Surrey, BC | ✉️ rjgayem@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/rodolf-john-gayem-733616203)
 
 ## 👤 About Me
 Detail-oriented IT Professional with a BCIT Computer Information Technology diploma and practical experience building virtualized enterprise architectures. Skilled in Active Directory lifecycle management, Group Policy engineering, and network troubleshooting.
